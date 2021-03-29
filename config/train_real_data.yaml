@@ -1,0 +1,12 @@
+# dataset
+dataset: real_tray
+label_type: unseen_food
+dataset_path: 
+  - PATH/TO/DATASET
+
+num_test: all
+
+img_resize_w: 640
+img_resize_h: 480
+
+num_workers: 4
