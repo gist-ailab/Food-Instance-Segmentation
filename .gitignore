@@ -13,6 +13,7 @@ ckp/
 
 copy_data_sample.py
 count_data.py
+inspect_data.py
 
 
 # Byte-compiled / optimized / DLL files
