@@ -3,7 +3,7 @@
 This is the implementation of paper submitted as 
 
 > D. Park, J. Lee, J. Lee and K. Lee. **Deep Learning based Food Instance Segmentation using Synthetic Data.** 2021 Ubiquitous Robots (UR) available online at
-[arXiv](https://arxiv.org/abs/2107.07191)
+[arXiv](https://arxiv.org/abs/2107.07191) or [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9494704).
 
 ![Demo](./resources/demo_unseen_food_segmentation.gif)
 
