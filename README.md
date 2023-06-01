@@ -17,7 +17,7 @@ python train.py --config {PATH/TO/CONFIG}
 # Resuming training
 python train.py \
  --config {PATH/TO/CONFIG} \
- --resume --resume_ckp PATH/TO/TTRAINED/WEIGHT
+ --resume --resume_ckp PATH/TO/TRAINED/WEIGHT
 ```
 
 - Evaluation
@@ -25,12 +25,12 @@ python train.py \
 # Evaluation one weight
 python test_single_models.py \
  --config {PATH/TO/CONFIG} \
- --trained_ckp PATH/TO/TTRAINED/WEIGHT
+ --trained_ckp PATH/TO/TRAINED/WEIGHT
 
 # Evaluation many weight saved in same directory
 python test_single_models.py \
  --config {PATH/TO/CONFIG} \
- --ckp_dir PATH/TO/TTRAINED/DIRECTORY
+ --ckp_dir PATH/TO/TRAINED/DIRECTORY
 ```
 
 - Inference demo
